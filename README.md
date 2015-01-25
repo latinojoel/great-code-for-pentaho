@@ -1,2 +1,2 @@
-# great-code-for-pentaho
+# Great code for Pentaho
 Some interesting code for Pentaho
